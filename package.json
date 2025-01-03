@@ -4,7 +4,7 @@
   "description": "Download just a sub directory from a GitHub repo",
   "main": "dist/index.js",
   "module": "esm",
-  "types": "es/index.d.ts",
+  "types": "esm/index.d.ts",
   "files": [
     "dist",
     "esm",
